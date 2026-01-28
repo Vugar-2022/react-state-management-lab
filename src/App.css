@@ -1,10 +1,12 @@
 #root {
   margin: 16px;
+  padding: 16px;
 }
 
 ul {
   display: flex;
   flex-wrap: wrap;
+  background-color: skyblue;
 }
 
 li {
